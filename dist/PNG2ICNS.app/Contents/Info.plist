@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>PNG2ICNS</string>
 	<key>CFBundleIconFile</key>
-	<string>new.icns</string>
+	<string>icon.icns</string>
 	<key>CFBundleIdentifier</key>
 	<string>org.pythonmac.unspecified.PNG2ICNS</string>
 	<key>CFBundleInfoDictionaryVersion</key>

@@ -16,6 +16,10 @@
 		<data>
 		J2areTbrk9z0HQ96xNwWrOBEJ2E=
 		</data>
+		<key>Resources/icon.icns</key>
+		<data>
+		mlLcF15EiIR3sDOEks9rid9eAnU=
+		</data>
 		<key>Resources/include/python3.11/pyconfig.h</key>
 		<data>
 		lH/derADm2tLj8cuUQDq+wfiKpI=
@@ -278,7 +282,7 @@
 		</data>
 		<key>Resources/lib/python311.zip</key>
 		<data>
-		zEHXkxKsdP7ejy3wac2EnF1feQw=
+		ORvoVg1sJ3gp6UbCMeH3sku5U/0=
 		</data>
 		<key>Resources/lib/tcl8.6/auto.tcl</key>
 		<data>
@@ -1880,17 +1884,13 @@
 		<data>
 		ESym3xI1ZrxCDrsPW5UkRkxeDiw=
 		</data>
-		<key>Resources/new.icns</key>
-		<data>
-		mlLcF15EiIR3sDOEks9rid9eAnU=
-		</data>
 		<key>Resources/openssl.ca/cert.pem</key>
 		<data>
 		fylep0/H7Qrw6SvggHH7C3bIUJ4=
 		</data>
 		<key>Resources/site.pyc</key>
 		<data>
-		zNX0uIe6LUcsUGZCm/t6/po6ZVU=
+		SsXTBJouC/IDXcxWiVehVKxmGXU=
 		</data>
 		<key>Resources/zlib.cpython-311-darwin.so</key>
 		<data>
@@ -1984,6 +1984,17 @@
 			<key>hash2</key>
 			<data>
 			DwCq7z9PRrXHdNUZHmZmh/T1/6lnDyxz/iNmegzlWA4=
+			</data>
+		</dict>
+		<key>Resources/icon.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mlLcF15EiIR3sDOEks9rid9eAnU=
+			</data>
+			<key>hash2</key>
+			<data>
+			5eDqOxoOktuNjcIlAJemcFOi9FazwWAILaxvlEaIVow=
 			</data>
 		</dict>
 		<key>Resources/include/python3.11/pyconfig.h</key>
@@ -2710,11 +2721,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zEHXkxKsdP7ejy3wac2EnF1feQw=
+			ORvoVg1sJ3gp6UbCMeH3sku5U/0=
 			</data>
 			<key>hash2</key>
 			<data>
-			LrRh8+uBTtuUpmXZHo1L/H0j7b2EVQYjwnDL3h327ZI=
+			RaZ+Dqw01yrreL6rA+9WEG34aldnTVzwr8GAV7aiZQc=
 			</data>
 		</dict>
 		<key>Resources/lib/tcl8.6/auto.tcl</key>
@@ -7117,17 +7128,6 @@
 			F7pAi8XA1B7tj4mYHZbuselSIZxa6lDXpbqTQ4ulG2o=
 			</data>
 		</dict>
-		<key>Resources/new.icns</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mlLcF15EiIR3sDOEks9rid9eAnU=
-			</data>
-			<key>hash2</key>
-			<data>
-			5eDqOxoOktuNjcIlAJemcFOi9FazwWAILaxvlEaIVow=
-			</data>
-		</dict>
 		<key>Resources/openssl.ca/cert.pem</key>
 		<dict>
 			<key>hash</key>
@@ -7143,11 +7143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zNX0uIe6LUcsUGZCm/t6/po6ZVU=
+			SsXTBJouC/IDXcxWiVehVKxmGXU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Bf0D0MDBDrGgQbfzODSphYPqGghq9lf8NxM+mJdfBvU=
+			Hw6SdVZhFASX09gRCI88w/sTKYkJAfDNsVkxyw+iMcE=
 			</data>
 		</dict>
 		<key>Resources/zlib.cpython-311-darwin.so</key>
