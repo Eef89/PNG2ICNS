@@ -1,0 +1,6 @@
+py2app
+generate_iconset
+tkinter
+time
+os
+Threading
