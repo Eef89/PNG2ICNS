@@ -1,5 +1,7 @@
 # PNG2ICNS
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This programm converts PNG files to INCS files. This programm is MacOS only.
 
 ![alt text](Interface.png)
